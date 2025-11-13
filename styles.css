@@ -199,3 +199,42 @@ img {
     justify-content: flex-end;
     margin: -6px;
 }
+
+
+                                        /* Contact */
+
+#contact {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CTA {
+    width: 1200px;
+    height: 200px;
+    background-color: #3f0303;
+    border-radius: 4px;
+    color: #e5e7eb;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.texts h3 {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.texts p {
+    font-size: 18px;
+    width: 800px;
+}
+
+.btn button {
+    width: 250px;
+    border: 2px solid #ecd6d6;
+    background-color: none;
+    margin: 10px;
+}
