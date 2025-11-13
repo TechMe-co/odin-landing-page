@@ -163,3 +163,33 @@ img {
 
 
                                             /* Testimony */
+
+#testimony {
+    /* border: 2px solid #3f0303; */
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+}
+
+.quote  {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote .theQ{
+    font-weight: 300;
+    color: #3f0303;
+    font-size: 24px;
+    font-style: italic;
+    width: 800px;
+}
+
+.quote p {
+    color: #3f0303;
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    justify-content: flex-end;
+}
