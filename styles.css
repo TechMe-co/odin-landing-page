@@ -111,3 +111,55 @@ img {
     width: 400px;
     border-radius: 4px;
 }
+
+                                            /* Products Section */
+#products {
+    /* border: 2px solid #cc1f1f; */
+    padding: 10px;
+    height: 600px;
+}
+
+.main h2, .info h2 {
+    color: #3f0303;
+}
+
+.main h2 {
+    font-weight: 800;
+}
+
+.info h2 {
+    font-weight: 600;
+}
+
+.info p {
+    color: #1f2937;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info img {
+    height: 240px;
+    width: 240px;
+    border-radius: 4px;
+}
+
+.contents {
+    display: flex;
+    /* border: 2px solid #cc1f1f; */
+    width: 1200px;
+}
+
+.info {
+    /* border: 2px solid #cc1f1f; */
+    width: 250px;
+    padding: 10px;
+    margin: 15px;
+}
+
+
+                                            /* Testimony */
