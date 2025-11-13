@@ -238,3 +238,20 @@ img {
     background-color: none;
     margin: 10px;
 }
+
+
+                                /* Footer */
+
+footer {
+    height: 50px;
+    background-color: #1f2937;
+    color: #ecd6d6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.theEnd {
+    font-weight: 400;
+    font-size: 18px;
+}
