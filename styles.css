@@ -116,7 +116,7 @@ img {
 #products {
     /* border: 2px solid #cc1f1f; */
     padding: 10px;
-    height: 600px;
+    height: 650px;
 }
 
 .main h2, .info h2 {
@@ -125,14 +125,19 @@ img {
 
 .main h2 {
     font-weight: 800;
+    font-size: 28px;
 }
 
 .info h2 {
     font-weight: 600;
+    font-size: 24px;
+    text-align: center;
 }
 
 .info p {
     color: #1f2937;
+    font-size: 20px;
+    text-align: center;
 }
 
 .main {
@@ -192,4 +197,5 @@ img {
     font-weight: 600;
     display: flex;
     justify-content: flex-end;
+    margin: -6px;
 }
